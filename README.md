@@ -13,11 +13,6 @@ Discover Indonesia's underwater paradise with our all-in-one diving app. Easily 
 | Rafi Imam          | M296B4KY3581 | Machine Learning   |
 | Mohammad Sufa      | M296B4KY2582 | Machine Learning   |
 
----
-
-### 🔗 About the Team
-We are a diverse group of professionals collaborating to create impactful solutions. Feel free to check out our profiles and connect with us!
-
 <!--
 **go-dive/go-dive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
